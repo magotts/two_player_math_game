@@ -1,0 +1,2 @@
+## TwO-O-Player Math Game
+A Two-Player Math Game created using Ruby. The two players answer a simple addition problem. Both will have 3 lives to begin with. When one answers incorrectly, they will lose a life. When one player reaches 0 lives, the game will end and the app will announce who the winner will be.
