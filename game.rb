@@ -90,4 +90,4 @@ class Game
    validate_answer
   end
 
-end 
+end
